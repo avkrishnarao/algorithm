@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wsjis65zITEYDO08SaNp/0y1SCTKZYvdFZ/k/i59dPV2evqPvu/jrt1D85audUaHVJZg/i9PCUdD+328mLtMaw==",
+  "success": true,
+  "projectFilePath": "C:\\MyData\\APP\\Algorithms\\Recursion\\FindTargetNumberWithOperatorMatch\\FindTargetNumberWithOperatorMatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadusu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

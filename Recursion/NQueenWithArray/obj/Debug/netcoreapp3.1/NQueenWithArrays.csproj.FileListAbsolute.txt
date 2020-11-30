@@ -1,0 +1,13 @@
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.exe
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.deps.json
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.runtimeconfig.json
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.runtimeconfig.dev.json
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.dll
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\bin\Debug\netcoreapp3.1\NQueenWithArrays.pdb
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.csprojAssemblyReference.cache
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.AssemblyInfoInputs.cache
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.AssemblyInfo.cs
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.csproj.CoreCompileInputs.cache
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.dll
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.pdb
+C:\MyData\APP\Algorithms\Recursion\NQueenWithArray\obj\Debug\netcoreapp3.1\NQueenWithArrays.genruntimeconfig.cache

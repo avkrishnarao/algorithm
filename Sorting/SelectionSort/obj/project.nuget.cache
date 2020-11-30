@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EGjnLWFk+rhTprFg0Yek+gtTAnQ2964JAS+O5/QMN05KzRx9yRKrdJdqYpSGahBUPpaxDSckMT47eW8PlOtsQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyData\\APP\\Algorithms\\sorting\\SelectionSort\\SelectionSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadusu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

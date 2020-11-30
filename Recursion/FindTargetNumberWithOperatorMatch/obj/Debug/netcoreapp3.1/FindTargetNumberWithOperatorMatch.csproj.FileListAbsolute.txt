@@ -1,0 +1,13 @@
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.exe
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.deps.json
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.runtimeconfig.json
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.runtimeconfig.dev.json
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.dll
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\bin\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.pdb
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.csprojAssemblyReference.cache
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.AssemblyInfoInputs.cache
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.AssemblyInfo.cs
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.csproj.CoreCompileInputs.cache
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.dll
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.pdb
+C:\MyData\APP\Algorithms\Recursion\FindTargetNumberWithOperatorMatch\obj\Debug\netcoreapp3.1\FindTargetNumberWithOperatorMatch.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NQueenWithArrays/1.0.0": {
+        "runtime": {
+          "NQueenWithArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NQueenWithArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

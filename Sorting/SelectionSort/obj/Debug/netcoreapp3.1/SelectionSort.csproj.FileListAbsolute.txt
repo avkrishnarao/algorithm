@@ -1,0 +1,4 @@
+C:\MyData\APP\Algorithms\sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+C:\MyData\APP\Algorithms\sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+C:\MyData\APP\Algorithms\sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+C:\MyData\APP\Algorithms\sorting\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache

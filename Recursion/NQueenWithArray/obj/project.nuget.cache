@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s1rbnJqT8SiXcgo/9n5VgFXO+yV8ZKbyTj9wqFvAV4KVKKse0rhlD1rdl50sVv02p7zVI4njVMPwk4lylyzUhg==",
+  "success": true,
+  "projectFilePath": "C:\\MyData\\APP\\Algorithms\\Recursion\\NQueenWithArray\\NQueenWithArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadusu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

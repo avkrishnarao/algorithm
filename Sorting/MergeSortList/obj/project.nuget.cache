@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHKNhcRFLQf6VLJDVgVNk7wkUpY4RRKsV6vn2Jtm6X38963wWKDdRI+/7vGrUE5v4IN9NL+PydE8jcfUSdCHLQ==",
+  "success": true,
+  "projectFilePath": "C:\\MyData\\APP\\Algorithms\\sorting\\MergeSortList\\MergeSortList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kadusu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.csprojAssemblyReference.cache
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.AssemblyInfoInputs.cache
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.AssemblyInfo.cs
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.csproj.CoreCompileInputs.cache
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.exe
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.deps.json
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.runtimeconfig.json
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.runtimeconfig.dev.json
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.dll
+C:\MyData\APP\Algorithms\sorting\MergeSortList\bin\Debug\netcoreapp3.1\MergeSortList.pdb
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.dll
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.pdb
+C:\MyData\APP\Algorithms\sorting\MergeSortList\obj\Debug\netcoreapp3.1\MergeSortList.genruntimeconfig.cache
