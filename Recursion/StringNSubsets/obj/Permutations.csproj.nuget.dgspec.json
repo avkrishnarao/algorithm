@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MyData\\APP\\Algorithms\\recursion\\decimalnumberprint\\DecimalNumberPrint.csproj": {}
+    "C:\\MyData\\APP\\Algorithms\\Recursion\\DecimalNumberPrint\\Permutations.csproj": {}
   },
   "projects": {
-    "C:\\MyData\\APP\\Algorithms\\recursion\\decimalnumberprint\\DecimalNumberPrint.csproj": {
+    "C:\\MyData\\APP\\Algorithms\\Recursion\\DecimalNumberPrint\\Permutations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MyData\\APP\\Algorithms\\recursion\\decimalnumberprint\\DecimalNumberPrint.csproj",
-        "projectName": "DecimalNumberPrint",
-        "projectPath": "C:\\MyData\\APP\\Algorithms\\recursion\\decimalnumberprint\\DecimalNumberPrint.csproj",
+        "projectUniqueName": "C:\\MyData\\APP\\Algorithms\\Recursion\\DecimalNumberPrint\\Permutations.csproj",
+        "projectName": "Permutations",
+        "projectPath": "C:\\MyData\\APP\\Algorithms\\Recursion\\DecimalNumberPrint\\Permutations.csproj",
         "packagesPath": "C:\\Users\\kadusu\\.nuget\\packages\\",
-        "outputPath": "C:\\MyData\\APP\\Algorithms\\recursion\\decimalnumberprint\\obj\\",
+        "outputPath": "C:\\MyData\\APP\\Algorithms\\Recursion\\DecimalNumberPrint\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

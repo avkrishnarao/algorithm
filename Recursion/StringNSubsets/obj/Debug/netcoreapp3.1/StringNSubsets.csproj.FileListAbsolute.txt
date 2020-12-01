@@ -1,0 +1,13 @@
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.exe
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.deps.json
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.runtimeconfig.json
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.runtimeconfig.dev.json
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.dll
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\bin\Debug\netcoreapp3.1\StringNSubsets.pdb
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.csprojAssemblyReference.cache
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.AssemblyInfoInputs.cache
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.AssemblyInfo.cs
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.csproj.CoreCompileInputs.cache
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.dll
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.pdb
+C:\MyData\APP\Algorithms\Recursion\StringNSubsets\obj\Debug\netcoreapp3.1\StringNSubsets.genruntimeconfig.cache
